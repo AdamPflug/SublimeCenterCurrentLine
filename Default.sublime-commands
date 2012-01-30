@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "Center Current Line: On",
+        "command": "center_current_line_on"
+    },
+    {
+        "caption": "Center Current Line: Off",
+        "command": "center_current_line_off"
+    }
+]
